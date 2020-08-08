@@ -1,10 +1,5 @@
 {
-  "manifest_version": 2, 
-
-  "name": "infodemic", 
-  "description": "we fight off coronavirus fake news", 
-  "version": 1.0, 
-  "author": "GG", 
-
-  "default_popup": "popup.html"
+  "manifest_version": 2,
+  "name": "My Cool Extension",
+  "version": "0.1"
 }
